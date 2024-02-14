@@ -1,6 +1,3 @@
-# Portfolio
-Analytics Portfolio
-
 # My Data Science Portfolio
 
 ## Project 1: Retail Corporation Data Analysis (SQL - Google BigQuery)

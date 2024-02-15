@@ -5,7 +5,7 @@ I am currently in the learning phase and enrolled in a course on Data Analytics/
 ### Business Problem:
 To analyze the given dataset to extract valuable insights and provide actionable recommendations about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
-[Link to Project 1](link_to_project1)
+[Link to Project 1](https://github.com/IshanSarkar/Portfolio/blob/4e21fc205987f59af86ddcc0b58f7efd6055b407/Project%201/Readme.md)
 
 ## Project 2: Analysis for a Streaming Service Company (Python - NumPy, Pandas, Matplotlib, Seaborn)
 ### Business Problem:

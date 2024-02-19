@@ -3,21 +3,24 @@ This particular business case focuses on the operations of Retail Store in Brazi
 **Platform Used: Mysql**
 
 ## Business Problem:
-By analyzing this extensive dataset, it becomes possible to gain valuable insights into Company’s operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
+By analyzing this extensive dataset, it becomes possible to gain valuable insights into Company’s operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.<br>
 
-- Database Details:<br>
+#### Exploratory analysis:<br>
+- **Database Details:** <br>
 **Query:**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/07bd3088-4175-4625-9221-b233f0041cb7)<br>
 **Output:**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/72d5283d-dfd6-4cfd-b1cf-62635d5ac2c9)<br>
 **Similarly, output of other tables**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/baf0afae-6562-4a65-814f-30bc53a6f680)    ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/c048ea9c-50e0-4a57-9330-4b6db06eaa69)    ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/ad6784df-deae-4a2c-b68d-ee07b39ef74f)    ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/3f0e403a-2e64-4865-9035-281606a4b2f4)     ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/b22fdd75-b060-44a3-8c8e-0ae3c7af6972)    ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/bf676bda-cf17-4838-be77-4aff1221c25f)<br>
-- Time range between which the orders were placed<br>
+- **Time range between which the orders were placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/17ab861c-aae2-4791-b70a-c850f16a4ccd)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/d1400bd6-b88a-4293-b3e9-65291c78cb1b)<br>
-- Count the Cities & States of customers who ordered<br>
+- **Count the Cities & States of customers who ordered** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/245325fc-dc5b-424e-9c10-ae89d5a6fb26)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/55b457de-b5cc-45a2-9818-49599eed02f6)<br>
+**Insights:**According to the dataset, the initial order was placed on September 4, 2016, at 15:19:00 UTC, and the final order was placed on October 17, 2018, at 17:30:18 UTC. Customers from 5,812 cities and 27 states placed non-repeated orders between September 4, 2016, at 21:15:19 UTC, and October 17, 2018, at 17:30:18 UTC.<br>
+#### In-depth Exploration:<br>
 - Growing trend in the no. of orders placed over the past years<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dca3cdfb-3c62-4a59-9340-af85f4c0dfa2)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/32d3c858-b7d5-4413-af8a-50ec3c3754f6)<br>

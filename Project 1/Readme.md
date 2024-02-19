@@ -21,10 +21,10 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/55b457de-b5cc-45a2-9818-49599eed02f6)<br>
 **Insights:** According to the dataset, the initial order was placed on September 4, 2016, at 15:19:00 UTC, and the final order was placed on October 17, 2018, at 17:30:18 UTC. Customers from 5,812 cities and 27 states placed non-repeated orders between September 4, 2016, at 21:15:19 UTC, and October 17, 2018, at 17:30:18 UTC.<br>
 #### In-depth Exploration:<br>
-- Growing trend in the no. of orders placed over the past years<br>
+- **Growing trend in the no. of orders placed over the past years** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dca3cdfb-3c62-4a59-9340-af85f4c0dfa2)<br>
-  ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/32d3c858-b7d5-4413-af8a-50ec3c3754f6)<br>
--  Monthly seasonality in terms of the no. of orders being placed<br>
+  ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/33b7ce3c-f77e-4955-b911-42547827cf5f)<br>
+-  **Monthly seasonality in terms of the no. of orders being placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/092ca751-6f4f-417b-a4f8-0fb4d280a24b)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/5131e10d-06ae-4143-85df-ab41eba7095e)<br>
 - Frequency of customers placing their orders in a day<br>

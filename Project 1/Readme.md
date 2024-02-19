@@ -16,7 +16,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Time range between which the orders were placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/17ab861c-aae2-4791-b70a-c850f16a4ccd)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/d1400bd6-b88a-4293-b3e9-65291c78cb1b)<br>
-- **Count the Cities & States of customers who ordered** <br>
+- **Count of Cities & States of customers who ordered** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/245325fc-dc5b-424e-9c10-ae89d5a6fb26)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/55b457de-b5cc-45a2-9818-49599eed02f6)<br>
 **Insights:**According to the dataset, the initial order was placed on September 4, 2016, at 15:19:00 UTC, and the final order was placed on October 17, 2018, at 17:30:18 UTC. Customers from 5,812 cities and 27 states placed non-repeated orders between September 4, 2016, at 21:15:19 UTC, and October 17, 2018, at 17:30:18 UTC.<br>

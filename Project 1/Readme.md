@@ -1,9 +1,9 @@
 # Detail:
-This particular business case focuses on the operations of Retail Store in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.<br>
+This particular business case focuses on the operations of the Retail store in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews.<br>
 **Platform Used: Mysql**
 
 ## Business Problem:
-By analyzing this extensive dataset, it becomes possible to gain valuable insights into Company’s operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.<br>
+By analyzing this extensive dataset, it becomes possible to gain valuable insights into the Company’s operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.<br>
 
 #### Exploratory analysis:<br>
 - **Database Details:** <br>
@@ -28,7 +28,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 -  **Monthly seasonality in terms of the no. of orders being placed** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/092ca751-6f4f-417b-a4f8-0fb4d280a24b)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/5131e10d-06ae-4143-85df-ab41eba7095e)<br>
-**Insights:** December 2016 is missing from the data collection. We can observe that the number of orders increased significantly in October 2016 compared to the previous month, but decreased significantly in December of the same year. Because of the forthcoming holiday season in the country, the biggest number of orders in 2017 were in November, and the lowest number of orders were in January. In addition, with the exception of the first quarter of 2017, the second month always has the highest number of orders in that quarter, followed by the third month. 2018 began with the highest number of orders in that year, and the number of orders remained very high throughout the year when compared to the previous year's months. The number of orders was extremely low in September and October of 2018.<br>
+**Insights:** December 2016 is missing from the data collection. We can observe that the number of orders increased significantly in October 2016 compared to the previous month, but decreased significantly in December of the same year. Because of the forthcoming holiday season in the country, the biggest number of orders in 2017 was in November, and the lowest number of orders was in January. In addition, except the first quarter of 2017, the second month always has the highest number of orders in that quarter, followed by the third month. 2018 began with the highest number of orders in that year, and the number of orders remained very high throughout the year when compared to the previous year's months. The number of orders was extremely low in September and October of 2018.<br>
 - **Frequency of customers placing their orders in a day** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/8c674ba5-b357-4f54-8002-024973720453)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/20d8bf3a-3251-48a2-b319-72a946a9e4cf)<br>
@@ -41,7 +41,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Customers distribution across all the states** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6e3a8fd1-3e7a-447e-8861-9d485f888c78)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/cba8fa75-0b65-4781-9779-ddba5d1883f4)<br>
-**Insights:** Most of the customers are from Sao Paulo and lowest number of customers are from Roraima. Note: COUNT(customer_id), COUNT(customer_unique_id), COUNT(DISTINCT(customer_id)) all of them are showing the same results.<br>
+**Insights:** Most of the customers are from Sao Paulo and the lowest number of customers are from Roraima. Note: COUNT(customer_id), COUNT(customer_unique_id), COUNT(DISTINCT(customer_id)) all of them are showing the same results.<br>
 #### Impact on Economy:<br>
 - **% increase in the cost of orders from year 2017 to 2018** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dbaed51a-d20b-4821-8e1a-1b83447fe44e)<br>
@@ -55,7 +55,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9625615a-a7af-4244-b0d3-419da83588b3)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/b51708ae-8cdf-4cad-b4d9-cbe697703fd9)<br>
 **Insights:** As per the result, the total cost of shipping or transporting goods for all orders in São Paulo is 718723.07, which is the highest, while the average cost of shipping or transporting goods for each order in Roraima is 42.98, which is the highest.<br>
-#### Analysis based on sales, freight and delivery time.<br>
+#### Analysis based on sales, freight, and delivery time.<br>
 - **No. of days taken to deliver each order from the order’s purchase date as delivery time and the difference (in days) between the estimated & actual delivery date of an order.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9ac77baa-9cab-4660-8e91-dae42a110217)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/fd06d2de-7d07-4ff9-85ae-16a6683b26a3)<br>
@@ -77,19 +77,21 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9dcae54c-fe5d-4f5c-845e-5fba07722d36)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/cdf3ba8c-7b80-4ad5-9a72-48f656cb7f70)<br>
 **Insights:** This table shows the monthly and yearly numbers of orders made using different payment types. From the table, we can see that most orders are made via credit card, followed by UPI.<br> 
-- **No. of orders placed on the basis of the payment installments that have been paid.** <br>
+- **No. of orders placed based on the payment installments that have been paid.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/f9e32433-94ea-4b6c-89c4-1c5345409ba7)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/a8d72b14-7ac0-4a24-a162-31c406240665)<br>
-**Insights:** From the table we can conclude that most of the orders have been made in a single installments.<br>
+**Insights:** From the table we can conclude that most of the orders have been made in a single installment.<br><br>
+### Overall Summary:<br>
+The analysis of the provided insights reveals significant trends and patterns in the company's operations, encompassing order dynamics, geographic distribution, pricing strategies, shipping costs, and delivery efficiency. The data spans from September 4, 2016, to October 17, 2018, providing a comprehensive view of the company's performance during this period. Notably, there are some missing data points, particularly in December 2016, which limits the ability to make year-to-year comparisons accurately.<br>
 
-
-
-
-
-
-
-
-
+### Business Recommendation:
+- Given the observed fluctuations in order volumes across different months, the company should capitalize on peak seasons such as November, coinciding with the holiday season, by implementing targeted marketing campaigns and optimizing inventory management to meet increased demand effectively.
+- The significant increase in the cost of orders in 2018 warrants a thorough examination of pricing strategies and product offerings. The company should analyze market trends, competitor pricing, and customer preferences to ensure competitive pricing and maximize profitability.
+- With São Paulo consistently leading in order volumes and total order value, the company should prioritize marketing efforts and resource allocation in this region. However, attention should also be given to regions with high average order values, such as Paraíba, to capitalize on potentially lucrative markets.
+- Analyzing freight values and delivery times across different states highlights opportunities for optimizing shipping processes and reducing costs. The company should focus on improving delivery efficiency, particularly in states where delivery times are comparatively longer, to enhance customer satisfaction and loyalty.
+- Recognizing that most orders are made via credit card, followed by UPI, the company should ensure seamless payment processing and offer incentives or promotions to encourage the use of preferred payment methods.
+- Given that most orders are made in a single installment, the company could explore opportunities to introduce flexible payment options, such as installment plans, to accommodate diverse customer preferences and increase order value.
+- Identifying states with the fastest and slowest delivery times provides insights into areas for improvement. The company should strive to replicate the efficient delivery processes observed in states like Acre across its operations to enhance customer satisfaction and differentiate itself in the market.
 
 
 

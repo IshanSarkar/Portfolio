@@ -46,7 +46,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **% increase in the cost of orders from year 2017 to 2018** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/dbaed51a-d20b-4821-8e1a-1b83447fe44e)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/2c2ccf03-4a6a-452c-8def-de3910371d9d)<br>
-**Insights:** In 2018, there is an increase of 137% in the cost of orders. So, it could mean several meanings like an indicate that the prices of the products being ordered have increased, or that customers are ordering more expensive items. It could also suggest that there is an increase in demand for the products being offered, which is driving up the prices.<br> 
+**Insights:** In 2018, there is an increase of 137% in the cost of orders. So, it could mean several meanings like an indication that the prices of the products being ordered have increased, or that customers are ordering more expensive items. It could also suggest that there is an increase in demand for the products being offered, which is driving up the prices.<br> 
 - **Total & Average value of order price for each state** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/974e2c2e-5742-4c59-8d4b-92ac9fecd7b6)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6c7ba1d2-ddec-4cde-b002-4af6d017da4b)<br>
@@ -63,15 +63,15 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **Top 5 states with the highest & lowest average freight value** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/c68a0e47-4826-49c1-9563-c6b15e346e2f)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/6b844ad0-92e8-422e-b989-a871011ec747)<br>
-**Insights:** The first 5 rows show the top 5 states with the lowest average freight value arranged in ascending order, and the last 5 rows show the top 5 states with the highest average freight value arranged in ascending order.<br>
+**Insights:** The first 5 rows show the top 5 states with the lowest average freight value arranged in ascending order (SP<PR<MG<RJ<DF), and the last 5 rows show the top 5 states with the highest average freight value arranged in ascending order(PI<AC<RO<PB<RR).<br>
 - **Top 5 states with the highest & lowest average delivery time.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/019427eb-a40c-4eaa-ba8d-95478b4ce863)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/5a9837cf-18ee-4bb9-9592-f06b58d73fea)<br>
-**Insights:** The first 5 rows show the top 5 states with the lowest average delivery time arranged in ascending order, and the last 5 rows show the top 5 states with the highest average delivery time arranged in ascending order. Time is measured in days.<br>
+**Insights:** The first 5 rows show the top 5 states with the lowest average delivery time arranged in ascending order (SP<PR<MG<DF<RS), and the last 5 rows show the top 5 states with the highest average delivery time arranged in ascending order (PA<AL<AM<AP<RR). Time is measured in days.<br>
 - **Top 5 states where the order delivery is really fast as compared to the estimated date of delivery.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/4fb98912-affb-4b92-a84d-fecf87f33ce0)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/fe18ce18-15ad-4ec4-8c04-1fedb790a10a)<br>
-**Insights:** The values in the ‘average_diff_estimated_delivery’ column is in days and arranged in descending order. Therefore, in the state of Acre, orders are delivered 19 days earlier than the estimated delivery date and the whole table shows the top 5 state where the order delivered is really fast<br>
+**Insights:** The values in the ‘average_diff_estimated_delivery’ column is in days and arranged in descending order. Therefore, in the state of Acre, orders are delivered 19 days earlier than the estimated delivery date and the whole table shows the top 5 state where the order delivery is really fast<br>
 #### Analysis based on the payments:<br>
 - **Month on Month no. of orders placed using different payment types.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/9dcae54c-fe5d-4f5c-845e-5fba07722d36)<br>
@@ -80,7 +80,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 - **No. of orders placed on the basis of the payment installments that have been paid.** <br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/f9e32433-94ea-4b6c-89c4-1c5345409ba7)<br>
   ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/a8d72b14-7ac0-4a24-a162-31c406240665)<br>
-**Insights:** From the table we can conclude that most of the orders have been made in a single instalment.<br>
+**Insights:** From the table we can conclude that most of the orders have been made in a single installments.<br>
 
 
 

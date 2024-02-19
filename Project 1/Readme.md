@@ -8,7 +8,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 #### Database Details:
 **Query:**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/07bd3088-4175-4625-9221-b233f0041cb7)<br>
-**Output:**
+**Output:**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/72d5283d-dfd6-4cfd-b1cf-62635d5ac2c9)<br>
 **Similarly, output of other tables**<br>
 ![image](https://github.com/IshanSarkar/Portfolio/assets/160044904/baf0afae-6562-4a65-814f-30bc53a6f680)<br>

@@ -11,7 +11,7 @@ To analyze the given dataset to extract valuable insights and provide actionable
 ### Business Problem:
 Analyze the data and generate insights that could help the company in deciding which type of shows and/or movies to produce and how they can grow the business in different countries.
 
-[Link to Project 2](https://github.com/IshanSarkar/Portfolio/blob/d37d0d66d15136da7ea6cbc44a74292e7dbea802/Project%202/Readme.md)
+[Link to Project 2](https://github.com/IshanSarkar/Streaming-Service-Company)
 
 ## Project 3: Wellness and Fitness Equipment Manufacturing Company Analysis (Python - NumPy, Pandas, Matplotlib, Seaborn)
 ### Business Problem:

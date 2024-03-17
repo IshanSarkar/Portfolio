@@ -22,7 +22,7 @@ Analyze the data and generate insights that could help the company in deciding w
 ### Business Problem:
 The market research team in the company wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product for customer characteristics.
 
-[Link to Project 3](https://github.com/IshanSarkar/Portfolio/blob/ee9d08a4ead498109844ed742fa260cf5e0867df/Project%203/Readme.md)
+[Link to Project 3](https://github.com/IshanSarkar/Wellness-and-Fitness-Equipment-Manufacturing-Company)
 
 ## Project 4: Average Time and Various Aspects Of People Spending Time On Social Media 
 **(Python - NumPy, Pandas, Matplotlib, Seaborn)**
